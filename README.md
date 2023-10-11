@@ -8,11 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/codeauthor_" target="blank"><img src="https://img.shields.io/twitter/follow/codeauthor_?logo=twitter&style=for-the-badge" alt="codeauthor_" /></a> </p>
 <a href="https://github.com/webcrumbs-community/webcrumbs">
-  <img
-    src="https://github.com/webcrumbs-community/webcrumbs/blob/main/src/img/contributor-badge.png"
-    alt="WebCrumbs Contributor"
-    width="200px"
-  />
+
 </a>
 - 💬 Ask me about **React, react native, JavaScript, Typescript, SASS, CSS,HTMl, tailwind css**
 
