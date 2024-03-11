@@ -12,7 +12,7 @@
 </a>
 - 💬 Ask me about **React, react native, JavaScript, Typescript, SASS, CSS,HTMl, tailwind css**
 
-- 📫 How to reach me **codeauthor2000@gmail.com**
+- 📫 How to reach me **codeauthor.dev@gmail.com**
 
 ### Blogs posts
 
